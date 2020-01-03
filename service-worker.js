@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fa2cc5b56d516d4c132497c6f8b75c8f.js"
+  "/precache-manifest.5fd97b93d26ad50133f53085638322c8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fono-client"});
